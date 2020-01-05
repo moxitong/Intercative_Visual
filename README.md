@@ -13,6 +13,9 @@
 - [dash数据代码下载地址](https://gitee.com/NFUNM066/Intercative_Visual/blob/master/171013066-%E8%8E%AB%E7%86%99%E5%BD%A4-dash.zip)
 
 ## 需要的数据
+
+_所有数据来源 [世界银行](http://datatopics.worldbank.org/world-development-indicators/themes/environment.html)_
+
 - 二氧化碳排放量（人均吨）
 - 一次能源的能源強度水平
 - 森林面積（佔土地面積的百分比）
