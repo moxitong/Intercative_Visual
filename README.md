@@ -2,9 +2,9 @@
 
 ## 链接入口
 
-数据故事主要在这里！ [交互式数据可视化-数据故事](http://nfunm066.gitee.io/intercative_story/)
+成果展现 [与18合作-pythonanywhere链接入口](http://jingwenfung1111.pythonanywhere.com/)
 
-这里主要显示图表哦！[与18合作-pythonanywhere链接入口](http://jingwenfung1111.pythonanywhere.com/)
+完整的数据故事在这里！ [交互式数据可视化-数据故事](http://nfunm066.gitee.io/intercative_story/)
 
 数据图表呈现过程+数据故事 [数据清洗+图表+数据故事](http://nfunm066.gitee.io/intercative_visual)
 
