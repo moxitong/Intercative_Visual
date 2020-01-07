@@ -21,6 +21,8 @@ _所有数据来源 [世界银行](http://datatopics.worldbank.org/world-develop
 - 森林面積（佔土地面積的百分比）
 - GDP增長（年百分比）
 
+_已经进行过清洗的数据 [数据清洗](https://gitee.com/NFUNM066/Intercative_Visual/blob/master/final.zip)
+
 ## 研究目的
 - 能源强度表面使用多少能源来生产一个单位的经济产出，较低的比率表示使用较少的能量来产生一个单位的输出。本次报告想研究一次能源的使用率高低对环境的影响，包括森林面积、二氧化碳排放等；还加入了经济指标，如GDP。
 
