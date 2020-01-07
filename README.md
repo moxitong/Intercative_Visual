@@ -2,9 +2,11 @@
 
 ## 链接入口
 
-数据故事主要在这里哦~麻烦大家点开里面看看！ [交互式数据可视化-数据故事](http://nfunm066.gitee.io/intercative_visual/)
+数据故事主要在这里！ [交互式数据可视化-数据故事](http://nfunm066.gitee.io/intercative_story/)
 
 这里主要显示图表哦！[与18合作-pythonanywhere链接入口](http://jingwenfung1111.pythonanywhere.com/)
+
+数据图表呈现过程+数据故事 [数据清洗+图表+数据故事](http://nfunm066.gitee.io/intercative_visual)
 
 ## 加分项-Dash数据图
 ![dash数据图](https://gitee.com/NFUNM066/Intercative_Visual/raw/master/dash%E6%95%B0%E6%8D%AE%E5%9B%BE.png)
